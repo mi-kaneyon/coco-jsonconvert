@@ -2,7 +2,7 @@
 coco format exported by label studio utility
 
 <p align="center">
-  <img src="https://github.com/mi-kaneyon/coco-jsonconvert/blob/main/git-converter.png" width="350" title="hover text">
+  <img src="https://github.com/mi-kaneyon/coco-jsonconvert/blob/main/git-converter.png" height="250" width="350" title="hover text">
 </p>
 
 ## necessary module
