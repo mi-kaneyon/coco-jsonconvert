@@ -1,8 +1,9 @@
 # coco-jsonconvert
 coco format exported by label studio utility
 
-
-![alt text](https://github.com/mi-kaneyon//coco-jsonconvert/git-converter.png?raw=true)
+<p align="center">
+  <img src="https://github.com/mi-kaneyon/coco-jsonconvert/blob/main/git-converter.png" width="350" title="hover text">
+</p>
 
 ## necessary module
 scikit-learn
