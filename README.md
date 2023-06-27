@@ -32,6 +32,14 @@ result.json  #---include label studio compress file(whole image annotation data)
  python sec_labeconv.py 
 
 ```
+## command line
+```
+ python coco-convert.py 
+
+```
+- both script will be created train and val directory if there is not created.
+- coco-convert.py is sampling test to check coco json file structure suitable.
+
 # Reference
 - label studio
 
