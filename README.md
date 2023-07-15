@@ -39,6 +39,10 @@ result.json  #---include label studio compress file(whole image annotation data)
 ```
 - both script will be created train and val directory if there is not created.
 - coco-convert.py is sampling test to check coco json file structure suitable.
+# Edge Impluse generated json converter
+- Developed checher and converter file.
+- Exactly contract Subscription is better. But some Poor Engineer like me will be useful it.
+
 
 # Reference
 - label studio
